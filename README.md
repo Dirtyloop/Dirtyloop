@@ -1,6 +1,8 @@
 ### Hello, I am Michał
 
-I’m currently learning Java and Angular.
+I’m currently learning DevOps, Java and Angular.
+
+Checkout my [InstalBase](https://github.com/Dirtyloop/InstalBase) app - a simply WMS made for my air-conditioning company.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
