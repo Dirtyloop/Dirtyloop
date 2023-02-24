@@ -1,8 +1,11 @@
 ### Hello, I am Michał
 
-I’m currently learning DevOps, Java and Angular.
+I’m currently learning Java, Angular and DevOps.
 
-Checkout my [InstalBase](https://github.com/Dirtyloop/InstalBase) app - a simply WMS made for my air-conditioning company.
+Checkout my:
+- [CRM system](https://github.com/Dirtyloop/CRM_backend) app - a simply CRM made for my air-conditioning company (Angular frontend)
+- [InstalBase](https://github.com/Dirtyloop/InstalBase) app - a simply WMS made for my air-conditioning company (Angular frontend)
+- [AirConBase](https://github.com/Dirtyloop/AirConBase) app - a simple Java console application - database with clients and instalations (tested with JUnit5)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
