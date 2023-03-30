@@ -1,6 +1,6 @@
 ### Hello, I am Michał
 
-I’m currently learning Java, Angular and DevOps.
+I’m currently learning Unreal Engine C++, Java, Angular and DevOps.
 
 Checkout my:
 - [FakeEmailSender](https://github.com/Dirtyloop/FakeEmailSender) app - a microservice responsible for sending emails to users from its own database (Java and Spring Boot)
