@@ -3,10 +3,10 @@
 I’m currently learning Java, Angular, Unreal Engine C++,and DevOps.
 
 Java projects:
-- [FakeEmailSender](https://github.com/Dirtyloop/FakeEmailSender) app - a microservice responsible for sending emails to users from its own database (Java/Spring Boot, JUnit5)
-- [CRM system](https://github.com/Dirtyloop/CRM_backend) app - a simply CRM made for my air-conditioning company (Java/SpringBoot backend + Angular frontend, MySQL, JUnit5)
-- [InstalBase](https://github.com/Dirtyloop/InstalBase) app - a simply WMS made for my air-conditioning company (Java/SpringBoot backend + Angular frontend, MySQL, JUnit5)
-- [AirConBase](https://github.com/Dirtyloop/AirConBase) app - a simple Java console application - database with clients and instalations (Java, JUnit5)
+- [FakeEmailSender](https://github.com/Dirtyloop/FakeEmailSender) - a microservice responsible for sending emails to users from its own database (Java/Spring Boot, JUnit5)
+- [CRM system](https://github.com/Dirtyloop/CRM_backend) - a CRM application made for my air-conditioning company (Java/SpringBoot backend + Angular frontend, MySQL, JUnit5)
+- [InstalBase](https://github.com/Dirtyloop/InstalBase) - a WMS application made for my air-conditioning company (Java/SpringBoot backend + Angular frontend, MySQL, JUnit5)
+- [AirConBase](https://github.com/Dirtyloop/AirConBase) - a simple Java console application - database with clients and instalations (Java, JUnit5)
 
 Unreal Engine projects:
 - [Earth Defender](https://github.com/Dirtyloop/earthdefender) game - a Space Invaders variation game
