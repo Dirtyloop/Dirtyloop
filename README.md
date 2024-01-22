@@ -3,6 +3,8 @@
 I’m currently learning Java, Angular, Unreal Engine C++,and DevOps.
 
 #### Java projects:
+- [NBPExchangeRatesViewer](https://github.com/Dirtyloop/NBPExchangeRatesViewer) - a microservice for querying data from the Narodowy Bank Polski's public API and return relevant information from it. You can get average exchange rate, min an max exchange rates and maximal difference between the bid and ask exchange rate of currency which code you provide.
+
 - [FakeEmailSender](https://github.com/Dirtyloop/FakeEmailSender) - a microservice responsible for sending emails to users stored in database. You can create/read/update/delete users. You can send email to all users or to user with specified id.
   
   TechStack: Java/Spring Boot, JUnit5, H2, Log4j2, Docker, Maven, GIT
