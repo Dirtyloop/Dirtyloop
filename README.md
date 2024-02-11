@@ -2,7 +2,7 @@
 
 I’m currently learning Java, Angular, Unreal Engine, C++, Reverse Engineering and DevOps.
 
-#### ![C++](https://img.shields.io/badge/C++-8A2BE2) projects:
+#### (https://img.shields.io/badge/C++-8A2BE2) projects:
 - [DoodleJumpGame](https://github.com/Dirtyloop/doodleJumpGame) - my variation on classic Doodle Jump written in C++.
 
 #### Java projects:
