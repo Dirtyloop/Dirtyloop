@@ -2,10 +2,10 @@
 
 I’m currently learning Java, Angular, Unreal Engine, C++, Reverse Engineering and DevOps.
 
-#### (https://img.shields.io/badge/C++-8A2BE2) projects:
+#### ![C++](https://img.shields.io/badge/C++-8A2BE2)
 - [DoodleJumpGame](https://github.com/Dirtyloop/doodleJumpGame) - my variation on classic Doodle Jump written in C++.
 
-#### Java projects:
+#### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 - [NBPExchangeRatesViewer](https://github.com/Dirtyloop/NBPExchangeRatesViewer) - a microservice for querying data from the Narodowy Bank Polski's public API and return relevant information from it. You can get average exchange rate, min an max exchange rates and maximal difference between the bid and ask exchange rate of currency which code you provide.
 
   TechStack: Java/Spring Boot, JUnit5, Mockito, Docker, Maven, GIT, Swagger
@@ -30,12 +30,10 @@ I’m currently learning Java, Angular, Unreal Engine, C++, Reverse Engineering 
   TechStack: Java, JUnit5
 
   
-#### Unreal Engine projects:
+#### ![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
 - [Earth Defender](https://github.com/Dirtyloop/earthdefender) - a Space Invaders variation game.
 
   TechStack: C++, UE4, GIT
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
 
 <!--
 **Dirtyloop/Dirtyloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
