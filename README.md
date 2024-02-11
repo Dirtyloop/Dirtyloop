@@ -35,7 +35,7 @@ I’m currently learning Java, Angular, Unreal Engine, C++, Reverse Engineering 
 
   TechStack: C++, UE4, GIT
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white) ![C++](https://img.shields.io/badge/C++-8A2BE2)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white) ![C++](https://img.shields.io/badge/logo-C++-8A2BE2?logo=c++)
 
 <!--
 **Dirtyloop/Dirtyloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
