@@ -1,6 +1,9 @@
 ### Hello, I am Michał
 
-I’m currently learning Java, Angular, Unreal Engine C++,and DevOps.
+I’m currently learning Java, Angular, Unreal Engine, C++, Reverse Engineering and DevOps.
+
+#### C++ projects:
+- [DoodlJumpGame](https://github.com/Dirtyloop/doodleJumpGame) - my variation on classic Doodle Jump wrote in C++.
 
 #### Java projects:
 - [NBPExchangeRatesViewer](https://github.com/Dirtyloop/NBPExchangeRatesViewer) - a microservice for querying data from the Narodowy Bank Polski's public API and return relevant information from it. You can get average exchange rate, min an max exchange rates and maximal difference between the bid and ask exchange rate of currency which code you provide.
@@ -25,8 +28,8 @@ I’m currently learning Java, Angular, Unreal Engine C++,and DevOps.
 - [AirConBase](https://github.com/Dirtyloop/AirConBase) - a simple Java console application - database with clients and instalations.
 
   TechStack: Java, JUnit5
-  
 
+  
 #### Unreal Engine projects:
 - [Earth Defender](https://github.com/Dirtyloop/earthdefender) - a Space Invaders variation game.
 
