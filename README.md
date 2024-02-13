@@ -1,6 +1,12 @@
 ### Hello, I am Michał
 
-I’m currently learning Java, Angular, Unreal Engine, C++, Reverse Engineering and DevOps.
+I am a computer lover.
+I am lovin Reverse Engineering.
+
+I program in several language for my own pleasure and needs.
+I am constantly learning new things about Java, Angular, Unreal Engine, C++, Linux, PHP, Reverse Engineering and DevOps.
+
+Below you can check out some of my projects.
 
 #### ![C++](https://img.shields.io/badge/C++-8A2BE2)
 - [DoodleJumpGame](https://github.com/Dirtyloop/doodleJumpGame) - my variation on classic Doodle Jump written in C++.
