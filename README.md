@@ -8,11 +8,6 @@ I am constantly learning new things about Java, Angular, Unreal Engine, C++, Lin
 
 Below you can check out some of my projects.
 
-#### ![C++](https://img.shields.io/badge/C++-8A2BE2)
-- [DoodleJumpGame](https://github.com/Dirtyloop/doodleJumpGame) - my variation on classic Doodle Jump written in C++.
-
-- [EQuality69](https://github.com/Dirtyloop/EQuality69) - my first audio processor made in C++ JUCE Framework - a three band filter.
-
 #### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 - [NBPExchangeRatesViewer](https://github.com/Dirtyloop/NBPExchangeRatesViewer) - a microservice for querying data from the Narodowy Bank Polski's public API and return relevant information from it. You can get average exchange rate, min an max exchange rates and maximal difference between the bid and ask exchange rate of currency which code you provide.
 
@@ -36,6 +31,12 @@ Below you can check out some of my projects.
 - [AirConBase](https://github.com/Dirtyloop/AirConBase) - a simple Java console application - database with clients and instalations.
 
   TechStack: Java, JUnit5
+
+
+#### ![C++](https://img.shields.io/badge/C++-8A2BE2)
+- [DoodleJumpGame](https://github.com/Dirtyloop/doodleJumpGame) - my variation on classic Doodle Jump written in C++.
+
+- [EQuality69](https://github.com/Dirtyloop/EQuality69) - my first audio processor made in C++ JUCE Framework - a three band filter.
 
   
 #### ![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
