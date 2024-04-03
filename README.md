@@ -1,7 +1,7 @@
 ### Hello, I am Michał
 
 I am a computer lover.
-I am lovin Reverse Engineering.
+I am lovin Programming and Reverse Engineering.
 
 I program in several language for my own pleasure and needs.
 I am constantly learning new things about Java, Angular, Unreal Engine, C++, Linux, PHP, Reverse Engineering and DevOps.
@@ -9,6 +9,10 @@ I am constantly learning new things about Java, Angular, Unreal Engine, C++, Lin
 Below you can check out some of my projects.
 
 #### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+- [Lotto Game](https://github.com/Dirtyloop/lotto) - early stage of number lottery game - Spring Boot application with modular monolith hexagonal architecture, facade design pattern, covered with unit and integration tests
+
+  TechStack: Java/Spring Boot, JUnit5, Mockito, Docker, Maven, GIT, Swagger, MongoDB, Redis
+
 - [NBPExchangeRatesViewer](https://github.com/Dirtyloop/NBPExchangeRatesViewer) - a microservice for querying data from the Narodowy Bank Polski's public API and return relevant information from it. You can get average exchange rate, min an max exchange rates and maximal difference between the bid and ask exchange rate of currency which code you provide.
 
   TechStack: Java/Spring Boot, JUnit5, Mockito, Docker, Maven, GIT, Swagger
